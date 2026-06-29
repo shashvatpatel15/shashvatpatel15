@@ -23,15 +23,22 @@
 - Secure REST APIs with authentication.
 - Search, filtering, batch deletion, and modern UI.
 - Inventory management with full-stack cloud deployment.
+  
+---
 
 ## 🛠️ Tech Stack
 
--- **Languages:** C++, Python, JavaScript, SQL
--- **Backend:** Django, Django REST Framework, Node.js, Express.js
--- **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
--- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & Other Tools:** AWS, GCP, Redis, Cloudinary, Brevo, Git, GitHub, Linux, Postman, VS Code
--- **Computer Fundamentals:** Data Structures & Algorithms, OOP, DBMS 
+**Languages:** C++, Python, JavaScript, SQL
+
+**Backend:** Django, Django REST Framework, Node.js, Express.js
+
+**Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**Cloud & Tools:** AWS, Redis, Cloudinary, Brevo, Git, GitHub, Linux, Postman, VS Code
+
+**Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
 
 ---
 
