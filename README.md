@@ -3,6 +3,7 @@
 🎓 Computer Engineering student at Pandit Deendayal Energy University (PDEU), entering my third year, with a strong interest in Backend Development, Cloud Computing, DevOps, Distributed Systems, and System Design. I enjoy building scalable, production-ready applications, solving real-world problems, and exploring modern cloud technologies.
 
 ---
+
 ## 🚀 Projects
 
 ### 🔹 [QuickBite](https://github.com/shashvatpatel15/QuickBite)
@@ -38,7 +39,7 @@
 
 **Cloud & Tools:** AWS, Redis, Cloudinary, Brevo, Git, GitHub, Linux, Postman, VS Code
 
-**Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
+**Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS)
 
 ---
 
