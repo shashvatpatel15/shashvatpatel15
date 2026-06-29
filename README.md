@@ -26,33 +26,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++, Python, JavaScript, SQL
-
-**Backend:** Django, Django REST Framework, Node.js, Express.js
-
-**Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
-
-**Databases:** PostgreSQL, MySQL, MongoDB
-
-**Cloud & Other Tools:** AWS, GCP, Redis, Cloudinary, Brevo, Git, GitHub, Linux, Postman, VS Code
-
-**Computer Fundamentals:** Data Structures & Algorithms, OOP, DBMS 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashvatpatel15&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashvatpatel15&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashvatpatel15&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+-- **Languages:** C++, Python, JavaScript, SQL
+-- **Backend:** Django, Django REST Framework, Node.js, Express.js
+-- **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
+-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud & Other Tools:** AWS, GCP, Redis, Cloudinary, Brevo, Git, GitHub, Linux, Postman, VS Code
+-- **Computer Fundamentals:** Data Structures & Algorithms, OOP, DBMS 
 
 ---
 
@@ -64,4 +43,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories, contribute, or connect with me.**
+⭐ Feel free to check out my repositories and connect!
