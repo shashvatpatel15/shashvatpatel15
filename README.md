@@ -10,21 +10,21 @@
 
 > Scalable Real Time food ordering platform 
 
-- **Tech Stack:** React (Vite), Django REST Framework, JavaScript, PostgreSQL, Redis, Razorpay, Brevo, Cloudinary, React Leaflet (OpenStreetMap)
-- JWT Authentication with Email OTP verification.
-- Real-time order tracking using Django Channels (WebSockets).
-- Razorpay payment integration, PDF invoice generation.
-- Restaurant dashboard with live order management and cloud image storage.
+- **Tech Stack:** React (Vite), Django REST Framework, JavaScript, PostgreSQL, Redis, Razorpay, Brevo, Cloudinary, React Leaflet (OpenStreetMap).
+- Responsive dashboards for Customers, Restaurants, and Delivery Partners with order management, delivery workflows, and live updates.
+- Secure JWT Authentication with Email OTP verification (Brevo), role-based access control (Customer, Restaurant, Delivery Partner), refresh tokens, and protected REST APIs.- Real-time order tracking using Django Channels (WebSockets).
+- Integrated Razorpay with payment verification, webhook support, automated PDF invoice generation, and invoice delivery via email.
+- Cloudinary integration for secure storage and optimized delivery of restaurant, menu, category images, and invoice PDFs.
+- Built real-time order tracking with Django Channels(Websockets) and Redis featuring live order updates, notifications, and rider location tracking.
 
 ### 🔹 [Inventrix](https://github.com/shashvatpatel15/Inventrix)
 
 > Full-Stack Inventory & Supply Chain Management System
 
 - **Tech Stack:** React (Vite), Node.js, Express.js, MySQL, Tailwind CSS
-- Secure REST APIs with authentication.
-- Search, filtering, batch deletion, and modern UI.
-- Inventory management with full-stack cloud deployment.
-  
+- Developed a full-stack application with secure authentication and RESTful APIs.
+- Built inventory management features including product, supplier, purchase, sales, and stock management with real-time inventory tracking.
+- Designed a MySQL relational database using Prisma ORM, developed scalable Express.js REST APIs, and optimized backend performance.   
 ---
 
 ## 🛠️ Tech Stack
